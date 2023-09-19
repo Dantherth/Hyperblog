@@ -1,21 +1,52 @@
 body
 {
    text-align:center;
+<<<<<<< HEAD
    color: rgb(0, 0, 0);
    font-family: "Curier";
+=======
+   color: rgba(0, 0, 0, 0.911);
+   font-family: "Arial";
+>>>>>>> cabecera
    font: size 16px;
    margin:0;
    padding: 0%;
 }
+
+#cabecera
+{
+background: #2e188b;
+box-shadow:  0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+color: white;
+font-weight:bold;
+margin: 0%;
+padding: 0.5em;
+
+}
+#cabecera #tagline
+{
+   padding: 0 0 0 1em;
+   font-weight:normal;
+   font: size 0.8em;;
+}
 #container
 {
    width: 70%;
-   padding:  1em;
+   padding:0;
    text-align: left;
+<<<<<<< HEAD
    border: 1px solid #61605f;
+=======
+   border: 1px solid #acaaa9;
+>>>>>>> cabecera
    margin: 0% auto;
 }
 #container h1
 {
 font: size 20px;
+}
+
+#post
+{
+   padding: 1em;
 }
