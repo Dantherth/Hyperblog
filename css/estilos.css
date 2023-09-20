@@ -1,13 +1,8 @@
 body
 {
    text-align:center;
-<<<<<<< HEAD
    color: rgb(0, 0, 0);
    font-family: "Arial";
-=======
-   color: rgba(0, 0, 0, 0.911);
-   font-family: "Arial";
->>>>>>> cabecera
    font: size 16px;
    margin:0;
    padding: 0%;
@@ -34,11 +29,7 @@ padding: 0.5em;
    width: 70%;
    padding:0;
    text-align: left;
-<<<<<<< HEAD
    border: 1px solid #61605f;
-=======
-   border: 1px solid #acaaa9;
->>>>>>> cabecera
    margin: 0% auto;
 }
 #container h1
