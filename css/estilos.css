@@ -1,7 +1,7 @@
 body
 {
    text-align:center;
-   color: rgb(0, 0, 0);
+   color: rgba(0, 0, 0, 0);
    font-family: "Arial";
    font: size 16px;
    margin:0;
@@ -29,7 +29,7 @@ padding: 0.5em;
    width: 70%;
    padding:0;
    text-align: left;
-   border: 1px solid #61605f;
+   border: 1px solid #acaaa9;
    margin: 0% auto;
 }
 #container h1
